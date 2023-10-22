@@ -8,17 +8,25 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Use the standard libraries in python for finding linear regression.
+
+2. Set variables for assigning dataset values.
+
+3. Import linear regression from sklearn.
+
+4. Predict the values of array.
+
+5. Calculate the accuracy, confusion and classification report b importing the required modules from sklearn.
+
+6. Obtain the graph.
+
 
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
+Developed by: Divya S
+RegisterNumber: 212221040042
 */
 ```
 ```
@@ -136,7 +144,32 @@ np.mean(predict(res.x,X)==y)
 ## Array value of x:
 ![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/f9a3ec95-46d0-401f-8123-a01a43572140)
 
+## Array value of y:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/040ae1b8-d5cb-4669-8d4c-e1fcca239299)
 
+## Score graph:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/66d2d5c0-18e0-486b-8bad-774adf73f6ae)
+
+## Sigmoid function graph:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/2310aded-286b-4e4b-a136-a7c311030acd)
+
+## X train grad value:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/a5ba04d4-d86c-4faa-b845-704f51c848b7)
+
+## Y train grad value:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/537fad83-1f22-4b9f-9575-9184a442055f)
+
+## Regression value:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/21687bba-703d-4045-ac97-a597d7e0e6ee)
+
+## Decision boundary graph:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/e36f5692-2a13-4420-a161-4f4df268d0d8)
+
+## Probability value:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/1d3f606c-100b-496f-9518-788b401e573f)
+
+## Prediction value of mean:
+![image](https://github.com/divz2711/Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/121245222/26c356a6-deef-49ab-b19b-4d0697e435a4)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
